@@ -1,0 +1,6 @@
+{
+  "name": "TechDevs — Modern Websites & Digital Experiences",
+  "description": "TechDevs builds modern, responsive websites and digital experiences for businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
